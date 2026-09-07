@@ -1,3 +1,3 @@
 # Sales-Dashboard
 Interactive Power BI dashboard analyzing sales performance, order counts, product lines, and geographical territories.
-![Dashboard Preview](صورة الداشبورد.png)
+![Dashboard Preview](dashboard.png)
